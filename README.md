@@ -1,16 +1,9 @@
 ## Hi there 👋
 
-<!--
-**zZLikkaZz/zZLikkaZz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+_**Este é o perfil de zZLikkaZz (eu >:3)**_
 
-Here are some ideas to get you started:
+- Estudo programação com Alura
+- Ela/dela
+- Fatos: gosto ed desenhar, pintar com aquarela, matemática , biologia, vários estilos musicais, rpg's e anime
 
-- 🔭 I’m currently working on ...
-## - 🌱 I’m currently learning ... programação with Alura
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ... ela, dela
-- ⚡ Fun fact: ... gosto de desenhar
--->
+![](https://media.tenor.com/rc4P_xqghSYAAAAM/kim-sunoo-enhypen.gif)
